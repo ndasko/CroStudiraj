@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="hr.unipu.inf.ma.studijskiprogramirh">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".PodrucjeUnos" />
+        <activity android:name=".GradUnos" />
+        <activity android:name=".UcilisteUnos" />
+        <activity android:name=".Rezultat" />
+        <activity android:name=".GradRezultat" />
+        <activity android:name=".GradRezultatUciliste" />
+        <activity android:name=".GradRezultatSastavnica" />
+        <activity android:name=".RezultatDetalji" />
+        <activity android:name=".UcilisteRezultatSastavnica" />
+        <activity android:name=".UcilisteRezultat"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CroStudiraj</string>
+    <string name="fragment_podrucje">Pretraživanje po\npodručju</string>
+    <string name="fragment_grad">Pretraživanje po\ngradu</string>
+    <string name="fragment_uciliste">Pretraživanje po\nučilištu</string>
+    <string name="activity_podrucje_unos">Unesi područje koje te zanima /\nEnter the area that you are interested in:</string>
+    <string name="activity_grad_unos">Odaberi grad u kojem bi studirao/la:</string>
+    <string name="activity_uciliste_unos">Odaberi učilište koje te zanima:</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_grad_rezultat_sastavnica">GradRezultatSastavnica</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
